@@ -9,15 +9,15 @@ module.exports = {
     },
     {
       name: 'grab',
-      script: process.env.SITE
-        ? `npm run grab -- --site=${process.env.SITE} ${
-            process.env.CLANG ? `--lang=${process.env.CLANG}` : ''
-          } --output=public/guide.xml`
-        : 'npm run grab -- --channels=channels.xml --output=public/guide.xml',
-      cron_restart: process.env.CRON || null,
-      instances: 1,
-      watch: false,
-      autorestart: false
-    }
+      script: '/epg/grab-script.sh',
+      autorestart: false,
+      cron_restart: process.env.CRON || "0 0 * * *",
+      env: {
+        MAX_CONNECTIONS: process.env.MAX_CONNECTIONS,
+        DAYS: process.env.DAYS,
+        DELAY: process.env.DELAY,
+        TIMEOUT: process.env.TIMEOUT
+      }
+    },
   ]
 }

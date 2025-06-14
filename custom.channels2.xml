@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<channels>
+  <channel site="tvtv.us" lang="en" xmltv_id="5StarMax.us" site_id="25620">5 StarMax East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ActionMax.us" site_id="18433">ActionMax East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AdultSwim.us" site_id="83166">[adult swim]East</channel>  
+  <channel site="tvtv.us" lang="en" xmltv_id="AMC.us" site_id="10021">AMC East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AMCPlus.us" site_id="114759">AMC Plus</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AmericanHeroesChannel.us" site_id="78808">American Heroes Channel</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Bounce.us" site_id="73067">Bounce</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CarsTV.us" site_id="71302">Cars.TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CBSSportsNetworkUSA.us" site_id="59250">CBS Sports Network</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CineSony.us" site_id="102978">Cine Sony</channel>  
+  <channel site="tvtv.us" lang="en" xmltv_id="CMTMusic.us" site_id="18717">CMT Music</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ComedyTV.us" site_id="80740">Comedy.TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Comet.us" site_id="97051">Comet</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Decades.us" site_id="91415">Decades</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DestinationAmerica.us" site_id="16617">Destination America</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DiscoveryLife.us" site_id="16125">Discovery Life</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DisneyJunior.us" site_id="74796">Disney Junior East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DisneyXD.us" site_id="18279">Disney XD East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DogTV.us" site_id="82446">Dog TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="E.us" site_id="10989">E! East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ESPNDeportes.us" site_id="25595">ESPN Deportes</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ESPNews.us" site_id="59976">ESPNEWS</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FoxBusinessNetwork.us" site_id="58649">Fox Business</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FoxNewsChannel.us" site_id="60179">FOX News</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FoxSoccerPlus.us" site_id="66879">Fox Soccer Plus</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="GolfChannel.us" site_id="61854">Golf Channel</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HallmarkDrama.us" site_id="105723">Hallmark Drama</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HallmarkMoviesMysteries.us" site_id="61522">Hallmark Movies &amp; Mysteries East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HBOComedy.us" site_id="18429">HBO Comedy East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HBOSignature.us" site_id="10243">HBO Signature East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HBOZone.us" site_id="18431">HBO Zone East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HDNetMovies.us" site_id="33668">HDNet Movies</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Laff.us" site_id="92091">Laff</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Lifetime.us" site_id="60150">Lifetime East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="LifetimeMovies.us" site_id="18480">LMN East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="LifetimeRealWomen.us" site_id="29612">Lifetime Real Women East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MTV2.us" site_id="16361">MTV2 East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MyDestinationTV.us" site_id="71303">MyDestination.TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NASATV.us" site_id="12553">NASA TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NASATVUHD.us" site_id="34466">NASA TV UHD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NickJr.us" site_id="19211">Nick Jr East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NickMusic.us" site_id="90209">NickMusic</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Nicktoons.us" site_id="30420">Nicktoons East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PBS.us" site_id="33453">PBS East (National Feed)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="StarzKidsFamily.us" site_id="50671">Starz Kids &amp; Family East</channel>  
+  <channel site="tvtv.us" lang="en" xmltv_id="TheMovieChannel.us" site_id="11160">The Movie Channel East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="truTV.us" site_id="10153">TruTV East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="USANetwork.us" site_id="11207">USA Network East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="VH1.us" site_id="11218">VH1 East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="VICETV.us" site_id="18822">Vice</channel>
+</channels>
